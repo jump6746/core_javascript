@@ -1,3 +1,1 @@
-const a = "hello";
-
-console.log(navigator.language);
+alert("자바스크립트!");
